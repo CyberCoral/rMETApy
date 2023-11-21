@@ -1,5 +1,9 @@
 #!/bin/bash
 #
+# Original version of rMETAshell
+# "Love this program, you can make anything with it and the possibilities are endless" -CyberCoral
+#
+#
 # Ver. Sat/Sept/30/2023
 #-------------------------------------------------
 #
