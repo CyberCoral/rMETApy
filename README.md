@@ -60,7 +60,7 @@ Replace ```[OPTIONS], <REVERSE_SHELL_COMMAND>, <filename>, and <URL>``` with the
 
 Follow the prompts to select an execution method based on the file format.
 **Warning: Ethical and Responsible Use Only
-rMETAshell is intended for legitimate and ethical purposes, such as penetration testing, cybersecurity assessments, and educational use. Unauthorized use of this tool for malicious activities is strictly prohibited and may have serious legal consequences. Ensure that you have proper authorization and adhere to all applicable laws and regulations before using rIMGshell.**
+rMETAshell is intended for legitimate and ethical purposes, such as penetration testing, cybersecurity assessments, and educational use. Unauthorized use of this tool for malicious activities is strictly prohibited and may have serious legal consequences. Ensure that you have proper authorization and adhere to all applicable laws and regulations before using rMETAshell.**
 
 ## License
 
